@@ -113,8 +113,8 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahtab89&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=E94560&icon_color=a8dadc&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtab89&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D0221&title_color=E94560&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahtab89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahtab89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -131,7 +131,7 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahtab89&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahtab89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
