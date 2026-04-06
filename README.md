@@ -65,7 +65,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/mahtab89">
+  <a href="https://instagram.com/_mahtab_yasin_">
     <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/mahtab89">
