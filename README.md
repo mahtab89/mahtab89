@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1a1a2e,80:16213e,100:0f3460&height=280&section=header&text=Mahtab%20Yasin&fontSize=65&fontColor=E94560&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20React%20%7C%20Mobile%20Dev&descSize=20&descAlignY=58&descColor=a8dadc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:1F6FEB,75:58A6FF,100:79C0FF&height=280&section=header&text=Mahtab%20Yasin&fontSize=65&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=React%20%7C%20Node.js%20%7C%20Web%20Developer&descSize=20&descAlignY=58&descColor=8B949E" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Mahtab+Yasin!;🎓+B.Tech+CSE+(AI+%26+ML);⚛️+React+%7C+React+Native+Dev;🤖+AI+%26+ML+Enthusiast;🚀+Building+the+Future%2C+One+App+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Mahtab+Yasin!;⚛️+React+Developer;🌐+Node.js+%7C+Express+Backend;🎨+Building+Beautiful+Web+Apps;🚀+Code+%E2%86%92+Create+%E2%86%92+Ship)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,8 +24,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahtab89&style=for-the-badge&color=E94560&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/mahtab89?style=for-the-badge&color=0f3460&labelColor=1a1a2e&logo=github&logoColor=E94560&label=FOLLOWERS)](https://github.com/mahtab89?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=mahtab89&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/mahtab89?style=for-the-badge&color=1F6FEB&labelColor=161B22&logo=github&logoColor=58A6FF&label=FOLLOWERS)](https://github.com/mahtab89?tab=followers)
 
 </div>
 
@@ -35,27 +35,34 @@
 <!--                      ABOUT ME SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<h2 align="center">🧬 About Me</h2>
 
-### 🧬 About Me
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
 ```yaml
 name: Mahtab Yasin
 location: India 🇮🇳
 education: B.Tech CSE (AI & ML)
 current_focus:
-  - ⚛️  React & React Native Apps
-  - 🤖  AI/ML Projects
+  - ⚛️  React Web Applications
+  - 🌐  Node.js & Express APIs
   - 📱  Auction Notifier App
 passions:
   - UI Animations & Interactive Experiences
   - Building Things That Actually Look Cool ✨
   - Turning Ideas into Products
-goal: Full Stack + AI Engineer
+goal: Full Stack Web Developer
 open_to: Collaboration | Internships | Cool Ideas
 ```
 
-<br clear="right"/>
+  </td>
+    <td width="45%" align="center" valign="middle">
+      <img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -69,27 +76,20 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend**
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 
 **Backend & Languages**
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-
-**AI / ML**
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 **Tools & Platforms**
 
@@ -97,7 +97,8 @@ open_to: Collaboration | Internships | Cool Ideas
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
 
 </div>
 
@@ -113,14 +114,14 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahtab89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahtab89&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahtab89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtab89&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahtab89&theme=radical&hide_border=true&background=0D0221&ring=E94560&fire=E94560&currStreakLabel=a8dadc&sideLabels=a8dadc&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=mahtab89&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -131,7 +132,7 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahtab89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahtab89&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -147,7 +148,7 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-[![Mahtab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahtab89&bg_color=0D0221&color=a8dadc&line=E94560&point=ffffff&area=true&hide_border=true&area_color=E9456020)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahtab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahtab89&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&hide_border=true&area_color=1F6FEB20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -169,7 +170,6 @@ open_to: Collaboration | Internships | Cool Ideas
 | **Movie Discovery App** | Browse, search & save movies with TMDB API | React Native, TMDB API |
 | **3D Portfolio Website** | Immersive 3D portfolio with Three.js & GSAP | React, Three.js, GSAP |
 | **Password Manager** | Secure local-first password vault | React Native, Crypto |
-| **AI/ML Projects** | Various ML experiments and models | Python, TensorFlow |
 
 </div>
 
@@ -207,9 +207,9 @@ open_to: Collaboration | Internships | Cool Ideas
 
 ```
 🔭  Building → Auction Notifier App (React Native)
-📱  Exploring → Advanced Animations & 3D on Mobile
-🤖  Learning → Deep Learning & LLM Fine-tuning
-🌱  Growing → Full Stack with Node.js + Express
+🌐  Exploring → Full Stack with Node.js + Express
+🎨  Creating → Stunning UIs with React & Three.js
+🌱  Learning → TypeScript & System Design
 🎯  Goal 2026 → Ship 3 complete products to production
 ```
 
@@ -227,9 +227,9 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E94560?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mahtab_yasin_)
-[![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahtab89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahtab89)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mahtab_yasin_)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahtab89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahtab-yasin-b462a5300/)
 
 <br/>
 
@@ -247,6 +247,6 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,80:1a1a2e,100:0D0221&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=E94560&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:79C0FF,25:58A6FF,50:1F6FEB,75:161B22,100:0D1117&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58A6FF&animation=twinkling&fontAlignY=65" />
 
 </div>
