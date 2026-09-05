@@ -1,6 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CINEMATIC HEADER WAVE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -8,19 +5,11 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED TYPING                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=👋+Hey%2C+I'm+Mahtab+Yasin!;⚛️+React+Developer;🌐+Node.js+%7C+Express+Backend;🎨+Building+Beautiful+Web+Apps;🚀+Code+%E2%86%92+Create+%E2%86%92+Ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=+Hey%2C+I'm+Mahtab+Yasin!;+React+Developer;+Node.js+%7C+Express+Backend;+Building+Beautiful+Web+Apps;+Code+%E2%86%92+Create+%E2%86%92+Ship)](https://git.io/typing-svg)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     VISITOR COUNTER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -31,11 +20,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧬 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table>
   <tr>
@@ -45,16 +30,7 @@
 name: Mahtab Yasin
 location: India 🇮🇳
 education: B.Tech CSE (AI & ML)
-current_focus:
-  - ⚛️  React Web Applications
-  - 🌐  Node.js & Express APIs
-  - 📱  Auction Notifier App
-passions:
-  - UI Animations & Interactive Experiences
-  - Building Things That Actually Look Cool ✨
-  - Turning Ideas into Products
-goal: Full Stack Web Developer
-open_to: Collaboration | Internships | Cool Ideas
+open To: Collaboration | Internships | Cool Ideas
 ```
 
   </td>
@@ -68,57 +44,6 @@ open_to: Collaboration | Internships | Cool Ideas
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK  — FULL                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-
-**Frontend**
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-
-**Backend & Languages**
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
-
-**Tools & Platforms**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATISTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-ten-pink-57.vercel.app/api?username=mahtab89&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats-ten-pink-57.vercel.app/api/top-langs/?username=mahtab89&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
-
-</div>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=mahtab89&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
@@ -127,25 +52,9 @@ open_to: Collaboration | Internships | Cool Ideas
 
 <br/>
 
-<!-- TROPHIES — commented out until trophy service is back online
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahtab89&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
--->
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
@@ -157,32 +66,7 @@ open_to: Collaboration | Internships | Cool Ideas
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-
-| 🔥 Project | 💡 Description | 🛠️ Stack |
-|:---:|:---:|:---:|
-| **Auction Notifier App** | Real-time auction alerts & tracking system | React Native, Firebase |
-| **Movie Discovery App** | Browse, search & save movies with TMDB API | React Native, TMDB API |
-| **3D Portfolio Website** | Immersive 3D portfolio with Three.js & GSAP | React, Three.js, GSAP |
-| **Password Manager** | Secure local-first password vault | React Native, Crypto |
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
 
@@ -195,36 +79,9 @@ open_to: Collaboration | Internships | Cool Ideas
 </div>
 
 <br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY VIBING TO                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚡ Currently Focused On</h2>
-
-<div align="center">
-
-```
-🔭  Building → Auction Notifier App (React Native)
-🌐  Exploring → Full Stack with Node.js + Express
-🎨  Creating → Stunning UIs with React & Three.js
-🌱  Learning → TypeScript & System Design
-🎯  Goal 2026 → Ship 3 complete products to production
-```
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
@@ -241,10 +98,6 @@ open_to: Collaboration | Internships | Cool Ideas
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CINEMATIC FOOTER WAVE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
