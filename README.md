@@ -54,18 +54,6 @@ open To: Collaboration | Internships | Cool Ideas
 
 ---
 
-<h2 align="center">Contribution Activity</h2>
-
-<div align="center">
-
-[![Mahtab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahtab89&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&hide_border=true&area_color=1F6FEB20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
 <h2 align="center">Contribution Snake</h2>
 
 <div align="center">
